@@ -1,0 +1,4 @@
+model,accuracy_percent,train_time_seconds
+K-Nearest Neighbours,98.61,0.0006
+Logistic Regression,97.22,0.0112
+Decision Tree,82.22,0.0119
